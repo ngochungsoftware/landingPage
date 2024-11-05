@@ -8,7 +8,7 @@ import { FaEye, FaShoppingCart } from "react-icons/fa";
 const ProductsData = [
   {
     id: 1,
-    img: Img1,
+    img: "https://product.hstatic.net/200000690725/product/e6914765-027b-43a9-b370-7ebe41b7cfd7_a17e25e059e44662a643de58c73d9eca_master.jpg",
     title: "Áo Adidas",
     price: "$50.00",
     oldPrice: "$62.50",
@@ -26,7 +26,7 @@ const ProductsData = [
   },
   {
     id: 3,
-    img: Img3,
+    img: "https://product.hstatic.net/200000690725/product/6ec2606f-6d5e-466d-86d1-f4d9b28392d3_09fb5bb735d74381a3ad508a254b588b_master.jpg",
     title: "Goggles",
     price: "$25.00",
     oldPrice: "$29.00",
